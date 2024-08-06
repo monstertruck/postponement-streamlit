@@ -1,6 +1,10 @@
 import streamlit as st
 
-st.title("NBA Game Postponement")
+
+st.set_page_config(page_title="motivation -- streamlit app")
+
+st.markdown("## NBA Game Postponement (due to weather)")
+st.write("")
 
 st.markdown("""
 Since many of the inputs to schedule construction are likely proprietary, I wanted to construct
