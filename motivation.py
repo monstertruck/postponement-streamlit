@@ -22,7 +22,7 @@ being postponed due to weather.
 I should make clear that this example makes huge assumptions and also takes advantage of full knowledge (i.e., the schedule is already known in advance, and 
 I also use actual weather data and not forecasts).
             
-[^1]: In fact, there is a Sixers home game (against the Kings) that was postponed due to condensation forming on an unseasonably _warm_ day.   
+[^1]: In fact, there is a Sixers home game (against the Kings) that was [postponed due to condensation forming](https://www.nba.com/news/kings-76ers-postponed-court-condensation) on an unseasonably _warm_ day.   
 """)
 
 
